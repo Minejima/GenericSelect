@@ -1,6 +1,7 @@
-# GenerSelect
+# GenericSelect
 
 ## Introduction
-FluentSelect wrapper that allows to use options with key and value which has differnt types.
+FluentSelect wrapper that allows to use options with key and value which has differnt types.  
 
-https://github.com/microsoft/fast-blazor
+ [fast-blazor](https://github.com/microsoft/fast-blazor)
+
